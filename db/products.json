@@ -1,3 +1,18 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "7072",
+      "name": "efw",
+      "price": "423432",
+      "description": "gwfwe",
+      "inStock": true
+    },
+    {
+      "id": "caec",
+      "name": "q3fq",
+      "price": "534534",
+      "description": "wgwgw",
+      "inStock": false
+    }
+  ]
 }
