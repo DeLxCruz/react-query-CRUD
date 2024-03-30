@@ -1,10 +1,12 @@
 import Products from "./components/Products";
+import ProductForm from "./components/ProductForm";
 
 function App() {
   return (
-    <div>
+    <>
+      <ProductForm />
       <Products />
-    </div>
+    </>
   );
 }
 
